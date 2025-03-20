@@ -219,19 +219,20 @@
             
            .about{
                 background: url(./pic/bgres.jpg);
+                background-size: cover;
             }
 
             .about-image img {
                 width: 200px;
                 border-radius: 50%;
-                border: 5px solid #0d7632;
+                border: 5px solid #5dcb84;
                 box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
                 transition: transform 0.3s ease-in-out;
             }
             .about-text h3 {
                 font-size: 2rem;
                 margin-bottom: 10px;
-                color:#0d7632;
+                color:#5dcb84;
             }
         }
 
